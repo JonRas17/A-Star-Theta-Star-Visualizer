@@ -1,5 +1,5 @@
 # A-Star-Theta-Star-Visualizer
-A Python program to calculate and display the path found by the A-Star and Theta-Star Algorithms on a grid of 100 blocked and unblocked cells.
+A Python program to calculate and display the path found by the A-Star and Theta-Star Algorithms on a grid of blocked and unblocked cells.
 A sample grid is provided, named "Grid.txt".
 gridMaker.py will create a new grid in the Grid.txt File.
 main.py runs the algorithm, calculating the A* and Theta* Paths and displaying them on a TKinter GUI.
